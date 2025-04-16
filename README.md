@@ -58,9 +58,6 @@ Ensure you have the following installed:
 
 Contributions are welcome! Please open an issue or submit a pull request for improvements.
 
-## License
-
-This project is currently unlicensed. Please check back later for updates.
 
 ## Contact
 
